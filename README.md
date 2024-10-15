@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JuliRulquinha
+- 👋 Hi, I’m Juli
 - 👀 I’m interested in games and anime.
 - 🌱 I’m currently learning programming. 
-- 📫 How to reach me 
-- ⚡ Fun fact: ...
 
 <!---
 JuliRulquinha/JuliRulquinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
